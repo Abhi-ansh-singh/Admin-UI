@@ -1,0 +1,14 @@
+body {
+  margin: 5%;
+  align-items: center;
+}
+.pagination-container {
+  display: flex;
+  align-items: center;
+}
+.pagination {
+  margin-top: 5px;
+  position: absolute;
+  left: 40%;
+  align-items: flex-end;
+}
